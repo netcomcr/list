@@ -2143,5 +2143,11 @@
 0.0.0.0 graph-fallback.facebook.com
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 scontent.fsjo7-1.fna.fbcdn.net
-
-
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 instagram.fsjo7-1.fna.fbcdn.net
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 instagram.fsjo6-1.fna.fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 
