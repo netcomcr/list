@@ -1,3 +1,27 @@
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
 0.0.0.0	0mo5a70cqa.adobe.io
 0.0.0.0	172.67.208.27
 0.0.0.0	192.150.14.69
@@ -12,7 +36,7 @@
 0.0.0.0	199.7.52.190:80
 0.0.0.0	1b9khekel6.adobe.io
 0.0.0.0	1hzopx6nz7.adobe.io
-0.0.0.0	209.34.83.73:43  
+0.0.0.0	209.34.83.73:43
 0.0.0.0	209.34.83.73:443
 0.0.0.0	216.92.151.227
 0.0.0.0	216.92.61.7
