@@ -2150,4 +2150,12 @@
 0.0.0.0 instagram.fsjo6-1.fna.fbcdn.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 edge-mqtt-fallback.facebook.com
-0.0.0.0 
+0.0.0.0 api.cloudflareclient.com
+0.0.0.0 gateway.icloud.com
+0.0.0.0 c.bing.com
+0.0.0.0 instagram.c10r.instagram.com
+0.0.0.0 instagram.fsjo7-1.fna.fbcdn.net
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 scontent.cdninstagram.com
+
+
