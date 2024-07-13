@@ -2133,3 +2133,15 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 instagram.fsjo6-1.fna.fbcdn.net
+0.0.0.0 instagram.fsjo7-1.fna.fbcdn.net
+0.0.0.0 instagram.fsjo6-1.fna.fbcdn.net
+0.0.0.0 gateway.instagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 mesu.g.aaplimg.com
+0.0.0.0 scontent.fsjo7-1.fna.fbcdn.net
+
+
